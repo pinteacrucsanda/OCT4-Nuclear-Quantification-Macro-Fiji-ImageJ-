@@ -82,4 +82,10 @@ _OCT4_overlay.tif — OCT4 with nuclei ROIs overlay
 
 _per_cell_results.csv — cell-by-cell area and OCT4 intensity
 
+📖 Citation
+
+If you use this macro in your research, please cite it as:
+
+Pinteac, R. (2025). OCT4 Nuclear Quantification Macro for Fiji/ImageJ (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17722405
+
 
